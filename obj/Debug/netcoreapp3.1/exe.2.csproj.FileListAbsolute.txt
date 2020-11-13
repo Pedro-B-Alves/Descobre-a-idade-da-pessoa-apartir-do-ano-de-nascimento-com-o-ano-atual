@@ -1,0 +1,26 @@
+C:\Users\dev\Desktop\pedro\exe.2\bin\Debug\netcoreapp3.1\exe.2.exe
+C:\Users\dev\Desktop\pedro\exe.2\bin\Debug\netcoreapp3.1\exe.2.deps.json
+C:\Users\dev\Desktop\pedro\exe.2\bin\Debug\netcoreapp3.1\exe.2.runtimeconfig.json
+C:\Users\dev\Desktop\pedro\exe.2\bin\Debug\netcoreapp3.1\exe.2.runtimeconfig.dev.json
+C:\Users\dev\Desktop\pedro\exe.2\bin\Debug\netcoreapp3.1\exe.2.dll
+C:\Users\dev\Desktop\pedro\exe.2\bin\Debug\netcoreapp3.1\exe.2.pdb
+C:\Users\dev\Desktop\pedro\exe.2\obj\Debug\netcoreapp3.1\exe.2.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\pedro\exe.2\obj\Debug\netcoreapp3.1\exe.2.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\pedro\exe.2\obj\Debug\netcoreapp3.1\exe.2.AssemblyInfo.cs
+C:\Users\dev\Desktop\pedro\exe.2\obj\Debug\netcoreapp3.1\exe.2.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\pedro\exe.2\obj\Debug\netcoreapp3.1\exe.2.dll
+C:\Users\dev\Desktop\pedro\exe.2\obj\Debug\netcoreapp3.1\exe.2.pdb
+C:\Users\dev\Desktop\pedro\exe.2\obj\Debug\netcoreapp3.1\exe.2.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\exe.2\bin\Debug\netcoreapp3.1\exe.2.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\exe.2\bin\Debug\netcoreapp3.1\exe.2.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\exe.2\bin\Debug\netcoreapp3.1\exe.2.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\exe.2\bin\Debug\netcoreapp3.1\exe.2.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\exe.2\bin\Debug\netcoreapp3.1\exe.2.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\exe.2\bin\Debug\netcoreapp3.1\exe.2.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\exe.2\obj\Debug\netcoreapp3.1\exe.2.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\exe.2\obj\Debug\netcoreapp3.1\exe.2.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\exe.2\obj\Debug\netcoreapp3.1\exe.2.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\exe.2\obj\Debug\netcoreapp3.1\exe.2.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\exe.2\obj\Debug\netcoreapp3.1\exe.2.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\exe.2\obj\Debug\netcoreapp3.1\exe.2.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\exe.2\obj\Debug\netcoreapp3.1\exe.2.genruntimeconfig.cache
